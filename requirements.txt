@@ -1,0 +1,6 @@
+torch
+soundfile
+numpy
+pyannote.audio
+scikit-learn
+pydub
